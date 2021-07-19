@@ -1,4 +1,9 @@
-[Reactive Graphs](https://mastering-shiny.org/reactive-graph.html) können mit einem [GitLab-Markdown Dokument](https://docs.gitlab.com/ee/user/markdown.html) erstellt werden. In diesem Dokument kann ein [Mermaid](https://mermaid-js.github.io/mermaid/#/) Code-Chunk verwendet werden. Dies bietet die Möglichkeit Diagramme mittels Syntax zu erzeugen. Zum Test der Syntax kann der [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor) verwendet werden.
+[Reactive Graphs](https://mastering-shiny.org/reactive-graph.html) können mit einem [GitLab-Markdown Dokument](https://docs.gitlab.com/ee/user/markdown.html) erstellt werden. 
+
+Diagrams For Documentation in Github md-files: https://gist.github.com/rodneyrehm/40e7946c0cff68a31cea
+
+
+In diesem Dokument kann ein [Mermaid](https://mermaid-js.github.io/mermaid/#/) Code-Chunk verwendet werden. Dies bietet die Möglichkeit Diagramme mittels Syntax zu erzeugen. Zum Test der Syntax kann der [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor) verwendet werden.
 
 Hier die Vorlage für den Code zur Erzeugung von Reactive Graphs und dem daraus erzeugten Graphen:
 
